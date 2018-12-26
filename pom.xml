@@ -13,5 +13,6 @@
 	<modules>
 		<module>school-service</module>
 		<module>school-ui</module>	
+		<module>discovery</module>
 	</modules>
 </project>
