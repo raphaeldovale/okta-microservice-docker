@@ -14,5 +14,6 @@
 		<module>school-service</module>
 		<module>school-ui</module>	
 		<module>discovery</module>
+		<module>config</module>
 	</modules>
 </project>
