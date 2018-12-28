@@ -9,4 +9,4 @@ spring:
     config:
       discovery:
         enabled: true
-        service-id: CONFIGSERVER
+        serviceId: CONFIGSERVER
